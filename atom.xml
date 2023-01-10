@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://adrianncabello.github.io/paginawebacr/">
 <id>https://adrianncabello.github.io/paginawebacr/</id>
 <title>Pagina Web Adrian Cabello</title>
-<updated>2021-12-21T19:06:00+01:00</updated>
+<updated>2023-01-10T13:34:33 +01:00</updated>
 <link rel="alternate" href="https://adrianncabello.github.io/paginawebacr/atom.xml"/>
 <author>
 <name>Adrian Cabello Rivera</name>
@@ -12,7 +12,7 @@
 <entry>
 <id>https://adrianncabello.github.io/paginawebacr/software_ofimatico/libreoffice.html</id>
 <title>Como instalar LibreOffice</title>
-<update>2021-02-12T18:30:00+01:00</update>
+<update>2023-01-10T13:34:33 +01:00</update>
 <author>
 <name>Adrian Cabello Rivera</name>
 <email>cariad_aliesma20@iesmedinaazahara.es</email>
@@ -23,7 +23,7 @@
 <entry>
 <id>https://adrianncabello.github.io/paginawebacr/software_ofimatico/openoffice.html</id>
 <title>Como instalar OpenOffice</title>
-<update>2021-02-12T18:30:00+01:00</update>
+<update>2023-01-10T13:34:33 +01:00</update>
 <author>
 <name>Adrian Cabello Rivera</name>
 <email>cariad_aliesma20@iesmedinaazahara.es</email>
@@ -34,7 +34,7 @@
 <entry>
 <id>https://adrianncabello.github.io/paginawebacr/software_mantenimiento/bleachbit.html</id>
 <title>Como instalar Bleachbit</title>
-<update>2021-02-12T18:30:00+01:00</update>
+<update>2023-01-10T13:34:33 +01:00</update>
 <author>
 <name>Adrian Cabello Rivera</name>
 <email>cariad_aliesma20@iesmedinaazahara.es</email>
@@ -45,7 +45,7 @@
 <entry>
 <id>https://adrianncabello.github.io/paginawebacr/software_mantenimiento/recuva-photorec.html</id>
 <title>Como instalar Recuva/PhotoRec</title>
-<update>2021-02-12T18:30:00+01:00</update>
+<update>2023-01-10T13:34:33 +01:00</update>
 <author>
 <name>Adrian Cabello Rivera</name>
 <email>cariad_aliesma20@iesmedinaazahara.es</email>
@@ -56,7 +56,7 @@
 <entry>
 <id>https://adrianncabello.github.io/paginawebacr/software_seguridad/clamav.html</id>
 <title>Como instalar ClamAV</title>
-<update>2021-02-12T18:30:00+01:00</update>
+<update>2023-01-10T13:34:33 +01:00</update>
 <author>
 <name>Adrian Cabello Rivera</name>
 <email>cariad_aliesma20@iesmedinaazahara.es</email>
@@ -67,7 +67,7 @@
 <entry>
 <id>https://adrianncabello.github.io/paginawebacr/software_seguridad/avast.html</id>
 <title>Como instalar Avast</title>
-<update>2021-02-12T18:30:00+01:00</update>
+<update>2023-01-10T13:34:33 +01:00</update>
 <author>
 <name>Adrian Cabello Rivera</name>
 <email>cariad_aliesma20@iesmedinaazahara.es</email>
@@ -78,7 +78,7 @@
 <entry>
 <id>https://adrianncabello.github.io/paginawebacr/software_portables/index.html</id>
 <title>Como instalar Cpuz/Rufus</title>
-<update>2021-02-12T18:30:00+01:00</update>
+<update>2023-01-10T13:34:33 +01:00</update>
 <author>
 <name>Adrian Cabello Rivera</name>
 <email>cariad_aliesma20@iesmedinaazahara.es</email>
