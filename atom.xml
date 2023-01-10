@@ -1,0 +1,23 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://adrianncabello.github.io/paginawebacr/">
+<id>https://adrianncabello.github.io/paginawebacr/</id>
+<title>Pagina Web Adrian Cabello</title>
+<updated>2021-12-21T19:06:00+01:00</updated>
+<link rel="alternate" href="https://adrianncabello.github.io/paginawebacr/atom.xml"/>
+<author>
+<name>Adrian Cabello Rivera</name>
+<email>cariad_aliesma20@iesmedinaazahara.es</email>
+</author>
+<category term="Software"/>
+<logo>adrianlogo.png</logo>
+<entry>
+<id>https://adrianncabello.github.io/paginawebacr/software_ofimatico/libreoffice.html</id>
+<title>Como instalar LibreOffice</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Adrian Cabello Rivera</name>
+<email>cariad_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary> En este articulo encontraras un a guia de como instalar LibreOffice</summary>
+<link rel="alternate" href="https://adrianncabello.github.io/paginawebacr/software_ofimatico/libreoffice.html"/>
+</entry>
+</feed>
