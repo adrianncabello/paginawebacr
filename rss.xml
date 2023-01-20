@@ -1,0 +1,70 @@
+<rss version="2.0">
+<channel>
+<!-- Prólogo -->
+<title>Pagina Web Adrian Cabello</title>
+<link>https://adrianncabello.github.io/paginawebacr/</link>
+<description> Web de guias de instalacion de software </description>
+<category>seguridad/informatica/ofimatica/mantenimiento</category>
+<copyright>1º ASIR - LMSGI - ACR</copyright>
+<language>es-es</language>
+<lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
+<webMaster>cariad_aliesma20@iesmedinaazahara.es</webMaster>
+<!--  Contenidos de la web  -->
+<item>
+<title>Como instalar LibreOffice</title>
+<description>En este articulo encontraras un a guia de como instalar LibreOffice</description>
+<link>https://adrianncabello.github.io/paginawebacr/software_ofimatico/libreoffice.html</link>
+<author>cariad_aliesma20@iesmedinaazahara.es</author>
+<category>libreoffice</category>
+<pubDate>Fri, 20 Jan 2023 11:10:00 +0100</pubDate>
+</item>
+<item>
+<title>Como instalar OpenOffice</title>
+<description>En este articulo encontraras un a guia de como instalar OpenOffice</description>
+<link>https://adrianncabello.github.io/paginawebacr/software_ofimatico/openoffice.html</link>
+<author>cariad_aliesma20@iesmedinaazahara.es</author>
+<category>openoffice</category>
+<pubDate>Fri, 20 Jan 2023 11:10:00 +0100</pubDate>
+</item>
+<item>
+<title>Como instalar Bleachbit</title>
+<description>En este articulo encontraras un a guia de como instalar BleachBit</description>
+<link>https://adrianncabello.github.io/paginawebacr/software_mantenimiento/bleachbit.html</link>
+<author>cariad_aliesma20@iesmedinaazahara.es</author>
+<category>bleachbit</category>
+<pubDate>Fri, 20 Jan 2023 11:10:00 +0100</pubDate>
+</item>
+<item>
+<title>Como instalar Recuva/PhotoRec</title>
+<description>En este articulo encontraras un a guia de como instalar Recuva y PhotoRec</description>
+<link>https://adrianncabello.github.io/paginawebacr/software_mantenimiento/recuva-photorec.html</link>
+<author>cariad_aliesma20@iesmedinaazahara.es</author>
+<category>recuva-photoRec</category>
+<pubDate>Fri, 20 Jan 2023 11:10:00 +0100</pubDate>
+</item>
+<item>
+<title>Como instalar ClamAV</title>
+<description>En este articulo encontraras un a guia de como instalar ClamAV</description>
+<link>https://adrianncabello.github.io/paginawebacr/software_seguridad/clamav.html</link>
+<author>cariad_aliesma20@iesmedinaazahara.es</author>
+<category>clamav</category>
+<pubDate>Fri, 20 Jan 2023 11:10:00 +0100</pubDate>
+</item>
+<item>
+<title>Como instalar Avast</title>
+<description>En este articulo encontraras un a guia de como instalar Avast</description>
+<link>https://adrianncabello.github.io/paginawebacr/software_seguridad/avast.html</link>
+<author>cariad_aliesma20@iesmedinaazahara.es</author>
+<category>avast</category>
+<pubDate>Fri, 20 Jan 2023 11:10:00 +0100</pubDate>
+</item>
+<item>
+<title>Como instalar Cpuz/Rufus</title>
+<description>En este articulo encontraras un a guia de como instalar Cpu-Z y Rufus</description>
+<link>https://adrianncabello.github.io/paginawebacr/software_portables/index.html</link>
+<author>cariad_aliesma20@iesmedinaazahara.es</author>
+<category>cpuz-rufus</category>
+<pubDate>Fri, 20 Jan 2023 11:10:00 +0100</pubDate>
+</item>
+</channel>
+</rss>
